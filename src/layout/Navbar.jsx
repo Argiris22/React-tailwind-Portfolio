@@ -17,7 +17,7 @@ export const Navbar = () => {
           href="#"
           className="text-xl font-bold tracking-tight hover:text-primary"
         >
-          A<span className="text-primary">.</span>A{" "}
+          A <span className="text-primary">.</span>A{" "}
           <span className="text-primary">.</span>
         </a>
 
