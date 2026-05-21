@@ -17,7 +17,8 @@ export const Navbar = () => {
           href="#"
           className="text-xl font-bold tracking-tight hover:text-primary"
         >
-          A.A <span className="text-primary">.</span>
+          A<span className="text-primary">.</span>A{" "}
+          <span className="text-primary">.</span>
         </a>
 
         {/* Desktop Nav */}
